@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+body{
+    display: block;
+    margin: 8px;
+    background-image: url("https://banner2.cleanpng.com/20180327/dqq/kisspng-tsardom-of-russia-russian-empire-flag-of-russia-co-russia-5ab9dee66248f4.1925003515221306624026.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 50vh;
+    font-family: "Oswald";
+    
+
+   h1{
+   letter-spacing: 3px;
+   text-align: center;
+   font-size: 3rem;
+   font-family: "Oswald";
+   }
+   
+}
